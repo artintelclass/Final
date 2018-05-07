@@ -23,7 +23,7 @@ You may work within a group or by yourself.
 * 25% Production Quality: The project needs to be well polished, with considerable work put into the finished work.
 * 25% Clear Conceptual Underpinning: The project needs to be well thought out, and have a clear concept that you are working with from start to finish.
 * 20% Machine Learning Application: The project should use and benefit from machine learning.
-* 5% Press: The project execution and documentation should be at a level that you feel comfortable submitting it to a press outlet. This last 7% will be for those who actually submit their project to one or more press outlets. The outlet doesn't have to cover your project, you just need to have sent it in.
+* 5% Press: The project execution and documentation should be at a level that you feel comfortable submitting it to a press outlet. This last 5% will be for those who actually submit their project to one or more press outlets. The outlet doesn't have to cover your project, you just need to have sent it in.
 
 
 ## Schedule
